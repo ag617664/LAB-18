@@ -1,0 +1,47 @@
+/* *{
+    padding: 0%;
+    margin: 0%;
+} */
+
+
+#DIV1{
+    display: flex;
+    
+}
+h2{
+    padding-left: 600px;
+    color: yellowgreen;
+}
+#div2{
+    background-color: rgb(239, 232, 232);
+    width: 200px;
+    margin-top: -20px;
+    height: 800px;
+    margin-left: -8px;
+    
+}
+#img{
+    background-color: grey;
+}
+.home{
+
+}
+header{
+    background-color: rgb(239, 232, 232);
+    margin-top: -8px;
+}
+.home{
+    padding-bottom: 80px;
+    color: yellowgreen;
+    font-size: larger;
+    font-weight: bolder;
+}
+#div3{
+    position: relative;
+    top: -797px;
+    left: 192px;
+    padding-left: 0%
+}
+footer{
+    margin-top: -800px;
+}
